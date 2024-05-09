@@ -10,7 +10,7 @@
 
     
 <div/> 
-
+ 
 ### Registro de usuario en Base de datos
 ✅validación de campos
 ✅registro en base de datos
